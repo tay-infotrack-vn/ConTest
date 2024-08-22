@@ -1,0 +1,6 @@
+@ConTest_HostAddress = http://localhost:5171
+
+GET {{ConTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
